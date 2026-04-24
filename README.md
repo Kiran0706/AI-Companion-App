@@ -7,6 +7,9 @@ It uses modern LLM-based architecture to understand context, emotions, and respo
 
 ---
 
+**API key(for safty)**
+key = AIzaSyB69I9zU3VjwIrGY-c-_CN3apAjsCIVYKI
+
 **What it does..**
 
 -  Keeps track of conversation (context-aware)
